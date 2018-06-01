@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PwdClient", "PwdClient\PwdClient.csproj", "{362A74F3-4CF6-4480-B3BD-133520372C66}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClientCredentialApi", "ClientCredentialApi\ClientCredentialApi.csproj", "{A5AD4A5C-4C08-4B20-9677-846D94221A63}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityServerCenter", "IdentityServerCenter\IdentityServerCenter.csproj", "{AA907227-3443-4816-AC6A-9005D0D2D670}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThirdPartyDemo", "ThirdPartyDemo\ThirdPartyDemo.csproj", "{8E1E2E73-7CDD-4D84-8DF9-35E1CC2DB6D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcCookieAuthSample", "MvcCookieAuthSample\MvcCookieAuthSample.csproj", "{D0B2CF7D-4FD4-44F8-883E-2D3A226CA88F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcClient03", "MvcClient03\MvcClient03.csproj", "{09BED52B-3AE4-44D7-897C-D1289155913F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{362A74F3-4CF6-4480-B3BD-133520372C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{362A74F3-4CF6-4480-B3BD-133520372C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{362A74F3-4CF6-4480-B3BD-133520372C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{362A74F3-4CF6-4480-B3BD-133520372C66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5AD4A5C-4C08-4B20-9677-846D94221A63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5AD4A5C-4C08-4B20-9677-846D94221A63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5AD4A5C-4C08-4B20-9677-846D94221A63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5AD4A5C-4C08-4B20-9677-846D94221A63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA907227-3443-4816-AC6A-9005D0D2D670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA907227-3443-4816-AC6A-9005D0D2D670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA907227-3443-4816-AC6A-9005D0D2D670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA907227-3443-4816-AC6A-9005D0D2D670}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E1E2E73-7CDD-4D84-8DF9-35E1CC2DB6D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E1E2E73-7CDD-4D84-8DF9-35E1CC2DB6D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E1E2E73-7CDD-4D84-8DF9-35E1CC2DB6D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E1E2E73-7CDD-4D84-8DF9-35E1CC2DB6D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0B2CF7D-4FD4-44F8-883E-2D3A226CA88F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0B2CF7D-4FD4-44F8-883E-2D3A226CA88F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0B2CF7D-4FD4-44F8-883E-2D3A226CA88F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0B2CF7D-4FD4-44F8-883E-2D3A226CA88F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09BED52B-3AE4-44D7-897C-D1289155913F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09BED52B-3AE4-44D7-897C-D1289155913F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09BED52B-3AE4-44D7-897C-D1289155913F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09BED52B-3AE4-44D7-897C-D1289155913F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9F47CD0-A65A-4E6B-939F-1083025DDED6}
+	EndGlobalSection
+EndGlobal

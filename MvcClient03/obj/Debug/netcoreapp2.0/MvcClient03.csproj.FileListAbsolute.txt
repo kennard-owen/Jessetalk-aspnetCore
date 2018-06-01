@@ -1,0 +1,10 @@
+D:\张龙\高级进阶\Core\ASP.NetCore\MvcClient03\bin\Debug\netcoreapp2.0\MvcClient03.deps.json
+D:\张龙\高级进阶\Core\ASP.NetCore\MvcClient03\bin\Debug\netcoreapp2.0\MvcClient03.runtimeconfig.json
+D:\张龙\高级进阶\Core\ASP.NetCore\MvcClient03\bin\Debug\netcoreapp2.0\MvcClient03.runtimeconfig.dev.json
+D:\张龙\高级进阶\Core\ASP.NetCore\MvcClient03\bin\Debug\netcoreapp2.0\MvcClient03.dll
+D:\张龙\高级进阶\Core\ASP.NetCore\MvcClient03\bin\Debug\netcoreapp2.0\MvcClient03.pdb
+D:\张龙\高级进阶\Core\ASP.NetCore\MvcClient03\obj\Debug\netcoreapp2.0\MvcClient03.csproj.CoreCompileInputs.cache
+D:\张龙\高级进阶\Core\ASP.NetCore\MvcClient03\obj\Debug\netcoreapp2.0\MvcClient03.AssemblyInfoInputs.cache
+D:\张龙\高级进阶\Core\ASP.NetCore\MvcClient03\obj\Debug\netcoreapp2.0\MvcClient03.AssemblyInfo.cs
+D:\张龙\高级进阶\Core\ASP.NetCore\MvcClient03\obj\Debug\netcoreapp2.0\MvcClient03.dll
+D:\张龙\高级进阶\Core\ASP.NetCore\MvcClient03\obj\Debug\netcoreapp2.0\MvcClient03.pdb

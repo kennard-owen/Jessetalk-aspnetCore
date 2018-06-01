@@ -1,0 +1,11 @@
+D:\张龙\高级进阶\Core\ASP.NetCore\Counsul\api2\bin\Debug\netcoreapp2.0\api2.deps.json
+D:\张龙\高级进阶\Core\ASP.NetCore\Counsul\api2\bin\Debug\netcoreapp2.0\api2.runtimeconfig.json
+D:\张龙\高级进阶\Core\ASP.NetCore\Counsul\api2\bin\Debug\netcoreapp2.0\api2.runtimeconfig.dev.json
+D:\张龙\高级进阶\Core\ASP.NetCore\Counsul\api2\bin\Debug\netcoreapp2.0\api2.dll
+D:\张龙\高级进阶\Core\ASP.NetCore\Counsul\api2\obj\Debug\netcoreapp2.0\api2.csproj.CoreCompileInputs.cache
+D:\张龙\高级进阶\Core\ASP.NetCore\Counsul\api2\obj\Debug\netcoreapp2.0\api2.AssemblyInfoInputs.cache
+D:\张龙\高级进阶\Core\ASP.NetCore\Counsul\api2\obj\Debug\netcoreapp2.0\api2.AssemblyInfo.cs
+D:\张龙\高级进阶\Core\ASP.NetCore\Counsul\api2\bin\Debug\netcoreapp2.0\api2.pdb
+D:\张龙\高级进阶\Core\ASP.NetCore\Counsul\api2\obj\Debug\netcoreapp2.0\api2.dll
+D:\张龙\高级进阶\Core\ASP.NetCore\Counsul\api2\obj\Debug\netcoreapp2.0\api2.pdb
+D:\张龙\高级进阶\Core\ASP.NetCore\Counsul\api2\obj\Debug\netcoreapp2.0\api2.csprojResolveAssemblyReference.cache

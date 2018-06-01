@@ -1,0 +1,11 @@
+D:\张龙\高级进阶\Core\ASP.NetCore\PwdClient\bin\Release\netcoreapp2.0\PwdClient.deps.json
+D:\张龙\高级进阶\Core\ASP.NetCore\PwdClient\bin\Release\netcoreapp2.0\PwdClient.runtimeconfig.json
+D:\张龙\高级进阶\Core\ASP.NetCore\PwdClient\bin\Release\netcoreapp2.0\PwdClient.runtimeconfig.dev.json
+D:\张龙\高级进阶\Core\ASP.NetCore\PwdClient\bin\Release\netcoreapp2.0\PwdClient.dll
+D:\张龙\高级进阶\Core\ASP.NetCore\PwdClient\bin\Release\netcoreapp2.0\PwdClient.pdb
+D:\张龙\高级进阶\Core\ASP.NetCore\PwdClient\obj\Release\netcoreapp2.0\PwdClient.csprojResolveAssemblyReference.cache
+D:\张龙\高级进阶\Core\ASP.NetCore\PwdClient\obj\Release\netcoreapp2.0\PwdClient.csproj.CoreCompileInputs.cache
+D:\张龙\高级进阶\Core\ASP.NetCore\PwdClient\obj\Release\netcoreapp2.0\PwdClient.AssemblyInfoInputs.cache
+D:\张龙\高级进阶\Core\ASP.NetCore\PwdClient\obj\Release\netcoreapp2.0\PwdClient.AssemblyInfo.cs
+D:\张龙\高级进阶\Core\ASP.NetCore\PwdClient\obj\Release\netcoreapp2.0\PwdClient.dll
+D:\张龙\高级进阶\Core\ASP.NetCore\PwdClient\obj\Release\netcoreapp2.0\PwdClient.pdb

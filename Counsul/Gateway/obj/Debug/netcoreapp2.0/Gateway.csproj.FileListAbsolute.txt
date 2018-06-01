@@ -1,0 +1,11 @@
+D:\张龙\高级进阶\Core\ASP.NetCore\Counsul\Gateway\bin\Debug\netcoreapp2.0\Gateway.deps.json
+D:\张龙\高级进阶\Core\ASP.NetCore\Counsul\Gateway\bin\Debug\netcoreapp2.0\Gateway.runtimeconfig.json
+D:\张龙\高级进阶\Core\ASP.NetCore\Counsul\Gateway\bin\Debug\netcoreapp2.0\Gateway.runtimeconfig.dev.json
+D:\张龙\高级进阶\Core\ASP.NetCore\Counsul\Gateway\bin\Debug\netcoreapp2.0\Gateway.dll
+D:\张龙\高级进阶\Core\ASP.NetCore\Counsul\Gateway\obj\Debug\netcoreapp2.0\Gateway.csprojResolveAssemblyReference.cache
+D:\张龙\高级进阶\Core\ASP.NetCore\Counsul\Gateway\obj\Debug\netcoreapp2.0\Gateway.csproj.CoreCompileInputs.cache
+D:\张龙\高级进阶\Core\ASP.NetCore\Counsul\Gateway\obj\Debug\netcoreapp2.0\Gateway.AssemblyInfoInputs.cache
+D:\张龙\高级进阶\Core\ASP.NetCore\Counsul\Gateway\obj\Debug\netcoreapp2.0\Gateway.AssemblyInfo.cs
+D:\张龙\高级进阶\Core\ASP.NetCore\Counsul\Gateway\bin\Debug\netcoreapp2.0\Gateway.pdb
+D:\张龙\高级进阶\Core\ASP.NetCore\Counsul\Gateway\obj\Debug\netcoreapp2.0\Gateway.dll
+D:\张龙\高级进阶\Core\ASP.NetCore\Counsul\Gateway\obj\Debug\netcoreapp2.0\Gateway.pdb

@@ -1,0 +1,10 @@
+D:\张龙\高级进阶\Core\ASP.NetCore\IdentityServerCenter\bin\Debug\netcoreapp2.0\IdentityServerCenter.deps.json
+D:\张龙\高级进阶\Core\ASP.NetCore\IdentityServerCenter\bin\Debug\netcoreapp2.0\IdentityServerCenter.runtimeconfig.json
+D:\张龙\高级进阶\Core\ASP.NetCore\IdentityServerCenter\bin\Debug\netcoreapp2.0\IdentityServerCenter.runtimeconfig.dev.json
+D:\张龙\高级进阶\Core\ASP.NetCore\IdentityServerCenter\bin\Debug\netcoreapp2.0\IdentityServerCenter.dll
+D:\张龙\高级进阶\Core\ASP.NetCore\IdentityServerCenter\bin\Debug\netcoreapp2.0\IdentityServerCenter.pdb
+D:\张龙\高级进阶\Core\ASP.NetCore\IdentityServerCenter\obj\Debug\netcoreapp2.0\IdentityServerCenter.csproj.CoreCompileInputs.cache
+D:\张龙\高级进阶\Core\ASP.NetCore\IdentityServerCenter\obj\Debug\netcoreapp2.0\IdentityServerCenter.AssemblyInfoInputs.cache
+D:\张龙\高级进阶\Core\ASP.NetCore\IdentityServerCenter\obj\Debug\netcoreapp2.0\IdentityServerCenter.AssemblyInfo.cs
+D:\张龙\高级进阶\Core\ASP.NetCore\IdentityServerCenter\obj\Debug\netcoreapp2.0\IdentityServerCenter.dll
+D:\张龙\高级进阶\Core\ASP.NetCore\IdentityServerCenter\obj\Debug\netcoreapp2.0\IdentityServerCenter.pdb

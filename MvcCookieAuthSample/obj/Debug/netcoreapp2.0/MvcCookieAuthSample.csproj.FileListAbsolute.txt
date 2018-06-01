@@ -1,0 +1,10 @@
+D:\张龙\高级进阶\Core\ASP.NetCore\MvcCookieAuthSample\bin\Debug\netcoreapp2.0\MvcCookieAuthSample.deps.json
+D:\张龙\高级进阶\Core\ASP.NetCore\MvcCookieAuthSample\bin\Debug\netcoreapp2.0\MvcCookieAuthSample.runtimeconfig.json
+D:\张龙\高级进阶\Core\ASP.NetCore\MvcCookieAuthSample\bin\Debug\netcoreapp2.0\MvcCookieAuthSample.runtimeconfig.dev.json
+D:\张龙\高级进阶\Core\ASP.NetCore\MvcCookieAuthSample\bin\Debug\netcoreapp2.0\MvcCookieAuthSample.dll
+D:\张龙\高级进阶\Core\ASP.NetCore\MvcCookieAuthSample\bin\Debug\netcoreapp2.0\MvcCookieAuthSample.pdb
+D:\张龙\高级进阶\Core\ASP.NetCore\MvcCookieAuthSample\obj\Debug\netcoreapp2.0\MvcCookieAuthSample.csproj.CoreCompileInputs.cache
+D:\张龙\高级进阶\Core\ASP.NetCore\MvcCookieAuthSample\obj\Debug\netcoreapp2.0\MvcCookieAuthSample.AssemblyInfoInputs.cache
+D:\张龙\高级进阶\Core\ASP.NetCore\MvcCookieAuthSample\obj\Debug\netcoreapp2.0\MvcCookieAuthSample.AssemblyInfo.cs
+D:\张龙\高级进阶\Core\ASP.NetCore\MvcCookieAuthSample\obj\Debug\netcoreapp2.0\MvcCookieAuthSample.dll
+D:\张龙\高级进阶\Core\ASP.NetCore\MvcCookieAuthSample\obj\Debug\netcoreapp2.0\MvcCookieAuthSample.pdb
